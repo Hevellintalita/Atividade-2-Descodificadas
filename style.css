@@ -1,0 +1,40 @@
+
+body{  
+     background-color: white;
+        }
+
+h1{
+    color: blueviolet;
+    padding: 60px;
+}
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    }
+
+    .vermelha{
+        background-color: red;
+    }
+
+    .azul{
+        background-color: aqua;
+    }
+
+    .verde{
+        background-color: green;
+    }
+
+    .amarela{
+        background-color: yellow;
+    }
+
+    #canto{
+        border: 2px solid black;
+    }
+
+    .hov:hover{
+        background-color: aqua;
+    }
